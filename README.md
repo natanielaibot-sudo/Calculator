@@ -10,9 +10,7 @@ A responsive calculator built with plain HTML, CSS and JavaScript. No libraries,
 - Keyboard support (0-9, + - * /, Enter, Backspace, Esc)
 - Automatic light and dark mode
 
-## Run it
-1. Download or clone this repository.
-2. Open `index.html` in your browser.
+
 
 ## Tech
 HTML5, CSS3 (grid, custom properties), vanilla JavaScript.
@@ -22,7 +20,7 @@ HTML5, CSS3 (grid, custom properties), vanilla JavaScript.
 - Avoiding floating point errors (0.1 + 0.2)
 - Keyboard and accessibility support
 
-## Ideas to improve
+//## Ideas to improve
 - Calculation history list
 - Scientific functions (square root, powers)
 - Unit tests for the calculation logic
