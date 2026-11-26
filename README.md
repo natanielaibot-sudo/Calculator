@@ -20,7 +20,4 @@ HTML5, CSS3 (grid, custom properties), vanilla JavaScript.
 - Avoiding floating point errors (0.1 + 0.2)
 - Keyboard and accessibility support
 
-//## Ideas to improve
-- Calculation history list
-- Scientific functions (square root, powers)
-- Unit tests for the calculation logic
+
